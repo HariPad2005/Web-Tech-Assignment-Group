@@ -1,0 +1,50 @@
+﻿Micro Project Report- Group Assignment          Date:08.09.2024
+
+
+Immersive Bag and Display of Phones
+
+
+The micro project involves creating an interactive and immersive experience featuring a 3D model of a bag and a collection of phone images. Users can explore the 3D model of the bag, and upon interacting with the model, they are presented with various phone images. The interface allows users to view detailed information about each phone and navigate through the images. Key features include a zoom-in effect for the 3D model, image transitions, and interactive elements that enhance user engagement.
+
+
+Project Directory Structure:
+
+
+Web-Tech-Assignment-Group/
+│
+├── app.py
+│
+├── templates/
+│   └── index.html
+│
+├── static/
+│   ├── css/
+│   │   └── style.css
+│   │
+│   ├── images/
+│   │   ├── phone1.webp
+│   │   ├── phone2.png
+│   │   ├── phone3.png
+│   │   ├── phone5.png
+│   │   ├── phone6.png
+│   │   ├── phone7.png
+│   │   ├── phone8.png
+│   │   └── bag_bg.png
+│   │
+│   └── models/
+│       └── bagpack.glb
+Project Images:
+  
+
+
+
+(After Clicking up Immerse Button)
+  
+
+
+
+Team Members
+
+
+- Dinesh Kumar R (311122104035)
+- Hariharan P (311122104050)
